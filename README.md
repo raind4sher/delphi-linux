@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dylanaraps/neofetch/master/thumbnails/lunar.png" width="120" />
+  <img src="https://github.com/raind4sher/delphi-linux/edit/main/logo.png"width="120" />
 </p>
 
 # Delphi Linux
