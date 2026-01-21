@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/raind4sher/delphi-linux/refs/heads/main/logo.png"width="120" />
+  <img src="https://raw.githubusercontent.com/raind4sher/delphi-linux/refs/heads/main/logo.png"width="240" />
 </p>
 
 # Delphi Linux
